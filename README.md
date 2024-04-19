@@ -25,7 +25,7 @@ and g1(d[0],a,b);
 and g2(d[1],a,b);
 and 3(d[2],a,-b);
 and g4(d[3],a,b);
-endmodulc
+endmodule
 ```
 # OUTPUT:
 [image]![WhatsApp Image 2024-03-25 at 14 19 02_adee6674](https://github.com/Afsar1276/DECODER2TO4/assets/161407741/de2146d0-706f-4e88-82d0-06c5943ef539)
